@@ -1,20 +1,5 @@
 ![image](https://github.com/user-attachments/assets/bd7353ed-0e72-4fdf-8d4c-2b1b976a39b3)
 
-
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| c1d9bdad848e4b3ab8d78ebb588da5f9 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME:                            | DATE PERFORMED:        | /50      |
-+----------------------------------+------------------------+----------+
-| Section:                         | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
-
 # SYSADM1 -- Capacity Management & Planning
 
 ## Part 1. A Simulated Dataset for Capacity Planning Exercise {#part-1.-a-simulated-dataset-for-capacity-planning-exercise .list-paragraph}
